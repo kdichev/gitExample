@@ -1,4 +1,5 @@
-var Car ,prius;
+let Car;
+let prius;
 
 Car = function(b, m, y) {
   this.brand = b;
