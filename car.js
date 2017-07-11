@@ -14,3 +14,5 @@ Car.prototype.rent = function() {
 };
 //RIP VANKATA CAR
 prius = new Car("Toyota", "Prius", "2012");
+
+console.log("gui" + prius);
